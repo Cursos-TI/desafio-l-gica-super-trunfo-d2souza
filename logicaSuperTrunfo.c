@@ -159,28 +159,6 @@ int main() {
     }
     /*  Comentei o super poder pois ainda não descobri um uso para ele
     superPoder = populacao + numeroDePontosTuristicos + area + pib + pibPerCapta + (1/densidadePopulacional);
-
-    //CALCULOS DE DENSIDADE POPULACIONAL E PIB PER CAPTA DA SEGUNDA CARTA
-    
-    superPoder2 = populacao2 + numeroDePontosTuristicos2 + area2 + pib2 + pibPerCapta2 + (1/densidadePopulacional2);
-
-    if (superPoder > superPoder2)
-    {
-        printf("O Super Poder da primeira cidade venceu!\n");
-        carta1 ++;
-    }else
-    {
-        printf("O Super Poder da segunda cidade venceu!\n");
-        carta2 ++;
-    };
-    printf("**********************************************\n");
-
-    if (carta1 > carta2)
-    {
-        printf("A Cidade %s venceu!!!!\n", nomeDoEstado);
-    }else{
-        printf("A Cidade %s venceu!!!!\n", nomeDoEstado2);
-    };
     */
     return 0;
 }
